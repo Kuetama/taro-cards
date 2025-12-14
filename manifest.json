@@ -4,8 +4,8 @@
   "description": "Работа с картами Таро",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0a3d62",
-  "theme_color": "#0a3d62",
+  "background_color": "#374649",
+  "theme_color": "#374649",
   "orientation": "portrait",
   "icons": [
     {
