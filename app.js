@@ -41,7 +41,7 @@ const defaultDeck = {
 { title: "Четверка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands4.webp", description: "" },
 { title: "Пятерка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands5.webp", description: "" },
 { title: "Шестерка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands6.webp", description: "" },
-{ title: "Семерка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands07.webp", description: "" },
+{ title: "Семерка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands7.webp", description: "" },
 { title: "Восьмерка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands8.webp", description: "" },
 { title: "Девятка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands9.webp", description: "" },
 { title: "Десятка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands10.webp", description: "" },
