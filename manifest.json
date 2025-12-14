@@ -1,0 +1,22 @@
+{
+  "name": "Таро карты",
+  "short_name": "Таро карты",
+  "description": "Работа с картами Таро",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a3d62",
+  "theme_color": "#0a3d62",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
