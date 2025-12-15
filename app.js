@@ -8,83 +8,83 @@ const defaultDeck = {
   backImage: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/back.webp",
   cards: [
     { title: "Туз кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups1.webp", description: "" },
-{ title: "Двойка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups2.webp", description: "" },
-{ title: "Тройка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups3.webp", description: "" },
-{ title: "Четверка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups4.webp", description: "" },
-{ title: "Пятерка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups5.webp", description: "" },
-{ title: "Шестерка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups6.webp", description: "" },
-{ title: "Семерка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups7.webp", description: "" },
-{ title: "Восьмерка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups8.webp", description: "" },
-{ title: "Девятка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups9.webp", description: "" },
-{ title: "Десятка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups10.webp", description: "" },
-{ title: "Паж кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups11.webp", description: "" },
-{ title: "Рыцарь кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups12.webp", description: "" },
-{ title: "Королева кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups13.webp", description: "" },
-{ title: "Король кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups14.webp", description: "" },
-{ title: "Туз мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords1.webp", description: "" },
-{ title: "Двойка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords2.webp", description: "" },
-{ title: "Тройка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords3.webp", description: "" },
-{ title: "Четверка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords4.webp", description: "" },
-{ title: "Пятерка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords5.webp", description: "" },
-{ title: "Шестерка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords6.webp", description: "" },
-{ title: "Семерка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords7.webp", description: "" },
-{ title: "ЗВосьмерка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords8.webp", description: "" },
-{ title: "Девятка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords9.webp", description: "" },
-{ title: "Десятка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords10.webp", description: "" },
-{ title: "Паж мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords11.webp", description: "" },
-{ title: "Рыцарь мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords12.webp", description: "" },
-{ title: "Королева мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords13.webp", description: "" },
-{ title: "Король мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords14.webp", description: "" },
-{ title: "Туз жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands1.webp", description: "" },
-{ title: "Двойка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands2.webp", description: "" },
-{ title: "Тройка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands3.webp", description: "" },
-{ title: "Четверка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands4.webp", description: "" },
-{ title: "Пятерка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands5.webp", description: "" },
-{ title: "Шестерка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands6.webp", description: "" },
-{ title: "Семерка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands7.webp", description: "" },
-{ title: "Восьмерка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands8.webp", description: "" },
-{ title: "Девятка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands9.webp", description: "" },
-{ title: "Десятка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands10.webp", description: "" },
-{ title: "Паж жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands11.webp", description: "" },
-{ title: "Рыцарь жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands12.webp", description: "" },
-{ title: "Королева жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands13.webp", description: "" },
-{ title: "Король жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands14.webp", description: "" },
-{ title: "Туз пентаклей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents1.webp", description: "" },
-{ title: "Двойка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents2.webp", description: "" },
-{ title: "Тройка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents3.webp", description: "" },
-{ title: "Четверка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents4.webp", description: "" },
-{ title: "Пятерка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents5.webp", description: "" },
-{ title: "Шестерка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents6.webp", description: "" },
-{ title: "Семерка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents7.webp", description: "" },
-{ title: "Восьмерка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents8.webp", description: "" },
-{ title: "Девятка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents9.webp", description: "" },
-{ title: "Десятка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents10.webp", description: "" },
-{ title: "Паж пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents11.webp", description: "" },
-{ title: "Рыцарь пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents12.webp", description: "" },
-{ title: "Королева пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents13.webp", description: "" },
-{ title: "Король пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents14.webp", description: "" },
-{ title: "Шут", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/0.webp", description: "" },
-{ title: "Маг", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/1.webp", description: "" },
-{ title: "Верховная жрица", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/2.webp", description: "" },
-{ title: "Императрица", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/3.webp", description: "" },
-{ title: "Император", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/4.webp", description: "" },
-{ title: "Папа", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/5.webp", description: "" },
-{ title: "Влюбленные", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/6.webp", description: "" },
-{ title: "Колесница", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/7.webp", description: "" },
-{ title: "Сила", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/8.webp", description: "" },
-{ title: "Отшельник", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/9.webp", description: "" },
-{ title: "Колесо фортуны", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/10.webp", description: "" },
-{ title: "Справедливость", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/11.webp", description: "" },
-{ title: "Повешенный", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/12.webp", description: " " },
-{ title: "Смерть", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/13.webp", description: " " },
-{ title: "Умеренность", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/14.webp", description: " " },
-{ title: "Дьявол", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/15.webp", description: " " },
-{ title: "Башня", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/16.webp", description: " " },
-{ title: "Звезда", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/17.webp", description: " " },
-{ title: "Луна", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/18.webp", description: " " },
-{ title: "Солнце", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/19.webp", description: " " },
-{ title: "Страшный суд", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/20.webp", description: " " },
-{ title: "Мир", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/21.webp", description: " " }
+    { title: "Двойка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups2.webp", description: "" },
+    { title: "Тройка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups3.webp", description: "" },
+    { title: "Четверка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups4.webp", description: "" },
+    { title: "Пятерка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups5.webp", description: "" },
+    { title: "Шестерка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups6.webp", description: "" },
+    { title: "Семерка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups7.webp", description: "" },
+    { title: "Восьмерка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups8.webp", description: "" },
+    { title: "Девятка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups9.webp", description: "" },
+    { title: "Десятка кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups10.webp", description: "" },
+    { title: "Паж кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups11.webp", description: "" },
+    { title: "Рыцарь кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups12.webp", description: "" },
+    { title: "Королева кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups13.webp", description: "" },
+    { title: "Король кубков", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/cups14.webp", description: "" },
+    { title: "Туз мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords1.webp", description: "" },
+    { title: "Двойка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords2.webp", description: "" },
+    { title: "Тройка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords3.webp", description: "" },
+    { title: "Четверка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords4.webp", description: "" },
+    { title: "Пятерка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords5.webp", description: "" },
+    { title: "Шестерка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords6.webp", description: "" },
+    { title: "Семерка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords7.webp", description: "" },
+    { title: "ЗВосьмерка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords8.webp", description: "" },
+    { title: "Девятка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords9.webp", description: "" },
+    { title: "Десятка мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords10.webp", description: "" },
+    { title: "Паж мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords11.webp", description: "" },
+    { title: "Рыцарь мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords12.webp", description: "" },
+    { title: "Королева мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords13.webp", description: "" },
+    { title: "Король мечей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/swords14.webp", description: "" },
+    { title: "Туз жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands1.webp", description: "" },
+    { title: "Двойка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands2.webp", description: "" },
+    { title: "Тройка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands3.webp", description: "" },
+    { title: "Четверка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands4.webp", description: "" },
+    { title: "Пятерка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands5.webp", description: "" },
+    { title: "Шестерка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands6.webp", description: "" },
+    { title: "Семерка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands7.webp", description: "" },
+    { title: "Восьмерка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands8.webp", description: "" },
+    { title: "Девятка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands9.webp", description: "" },
+    { title: "Десятка жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands10.webp", description: "" },
+    { title: "Паж жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands11.webp", description: "" },
+    { title: "Рыцарь жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands12.webp", description: "" },
+    { title: "Королева жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands13.webp", description: "" },
+    { title: "Король жезлов", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/wands14.webp", description: "" },
+    { title: "Туз пентаклей", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents1.webp", description: "" },
+    { title: "Двойка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents2.webp", description: "" },
+    { title: "Тройка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents3.webp", description: "" },
+    { title: "Четверка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents4.webp", description: "" },
+    { title: "Пятерка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents5.webp", description: "" },
+    { title: "Шестерка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents6.webp", description: "" },
+    { title: "Семерка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents7.webp", description: "" },
+    { title: "Восьмерка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents8.webp", description: "" },
+    { title: "Девятка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents9.webp", description: "" },
+    { title: "Десятка пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents10.webp", description: "" },
+    { title: "Паж пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents11.webp", description: "" },
+    { title: "Рыцарь пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents12.webp", description: "" },
+    { title: "Королева пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents13.webp", description: "" },
+    { title: "Король пентакле", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/pents14.webp", description: "" },
+    { title: "Шут", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/0.webp", description: "" },
+    { title: "Маг", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/1.webp", description: "" },
+    { title: "Верховная жрица", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/2.webp", description: "" },
+    { title: "Императрица", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/3.webp", description: "" },
+    { title: "Император", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/4.webp", description: "" },
+    { title: "Папа", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/5.webp", description: "" },
+    { title: "Влюбленные", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/6.webp", description: "" },
+    { title: "Колесница", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/7.webp", description: "" },
+    { title: "Сила", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/8.webp", description: "" },
+    { title: "Отшельник", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/9.webp", description: "" },
+    { title: "Колесо фортуны", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/10.webp", description: "" },
+    { title: "Справедливость", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/11.webp", description: "" },
+    { title: "Повешенный", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/12.webp", description: " " },
+    { title: "Смерть", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/13.webp", description: " " },
+    { title: "Умеренность", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/14.webp", description: " " },
+    { title: "Дьявол", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/15.webp", description: " " },
+    { title: "Башня", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/16.webp", description: " " },
+    { title: "Звезда", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/17.webp", description: " " },
+    { title: "Луна", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/18.webp", description: " " },
+    { title: "Солнце", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/19.webp", description: " " },
+    { title: "Страшный суд", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/20.webp", description: " " },
+    { title: "Мир", image: "https://raw.githubusercontent.com/Kuetama/taro-cards/main/RyderWaite/21.webp", description: " " }
   ]
 };
 
@@ -168,7 +168,7 @@ function showAllCards() {
       backImg.alt = "Рубашка";
       backImg.style.width = "100%";
       backImg.style.height = "100%";
-      backImg.style.objectFit = "cover";
+      backImg.style.objectFit = "contain";
       front.appendChild(backImg);
 
       const back = document.createElement("div");
@@ -179,7 +179,7 @@ function showAllCards() {
       back.style.transform = "rotateY(180deg)";
       back.style.borderRadius = "8px";
       back.style.overflow = "hidden";
-      back.innerHTML = `<img src="${card.image}" alt="${card.title}" style="width:100%;height:100%;object-fit:cover;">`;
+      back.innerHTML = `<img src="${card.image}" alt="${card.title}" style="width:100%;height:100%;object-fit:contain;">`;
 
       inner.appendChild(front);
       inner.appendChild(back);
@@ -199,7 +199,7 @@ function showAllCards() {
     } else {
       const el = document.createElement("div");
       el.className = "card";
-      el.innerHTML = `<img src="${card.image}" alt="${card.title}" style="width:100%;height:100%;object-fit:cover;border-radius:8px;">`;
+      el.innerHTML = `<img src="${card.image}" alt="${card.title}" style="width:100%;height:100%;object-fit:contain;border-radius:8px;">`;
       el.style.cursor = "pointer";
       el.style.boxShadow = "0 4px 8px rgba(0,0,0,0.2)";
       el.onclick = () => showCardModal(card);
@@ -207,13 +207,6 @@ function showAllCards() {
     }
   });
 }
-
-// function showCardModal(card) {
-//   document.getElementById("modalTitle").textContent = card.title;
-//   document.getElementById("modalImage").src = card.image;
-//   document.getElementById("modalDesc").textContent = card.description;
-//   document.getElementById("modal").classList.remove("hidden");
-// }
 
 function showCardModal(card) {
   const modalImage = document.getElementById("modalImage");
@@ -227,9 +220,6 @@ function showCardModal(card) {
 
   document.getElementById("modal").classList.remove("hidden");
 }
-
-
-
 
 function closeModal() {
   document.getElementById("modal").classList.add("hidden");
@@ -245,7 +235,7 @@ function showRandomCard() {
 function showThreeRandomCards() {
   if (!currentDeck) return alert("Нет активной колоды!");
   const cards = currentDeck.cards;
-  const unique = [...new Set(Array.from({length: 100}, () => Math.floor(Math.random() * cards.length)))].slice(0, 3);
+  const unique = [...new Set(Array.from({ length: 100 }, () => Math.floor(Math.random() * cards.length)))].slice(0, 3);
   let html = unique.map(i => {
     const c = cards[i];
     return `<div style="display:inline-block;margin:10px;text-align:center;max-width:250px;">
@@ -303,7 +293,7 @@ function clearTable() {
 
 function toggleBack() {
   isBackVisible = !isBackVisible;
-  document.getElementById("toggleBackBtn").textContent = 
+  document.getElementById("toggleBackBtn").textContent =
     isBackVisible ? "Рубашка: ВКЛ" : "Рубашка: ВЫКЛ";
   if (currentDeck) showAllCards(); // ← остаётся!
 }
@@ -321,8 +311,6 @@ document.addEventListener('DOMContentLoaded', () => {
   });
   document.getElementById('show1Btn')?.addEventListener('click', showRandomCard);
   document.getElementById('show3Btn')?.addEventListener('click', showThreeRandomCards);
-  // УДАЛЕНА СЛЕДУЮЩАЯ СТРОКА:
-  // document.getElementById('showAllBtn').addEventListener('click', showAllCards);
   document.getElementById('shuffleBtn')?.addEventListener('click', shuffleOnTable);
   document.getElementById('clearBtn')?.addEventListener('click', clearTable);
   document.getElementById('toggleBackBtn')?.addEventListener('click', toggleBack);
