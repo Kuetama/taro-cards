@@ -168,7 +168,7 @@ function showAllCards() {
       backImg.alt = "Рубашка";
       backImg.style.width = "100%";
       backImg.style.height = "100%";
-      backImg.style.objectFit = "contain";
+      backImg.style.objectFit = "cover";
       front.appendChild(backImg);
 
       const back = document.createElement("div");
@@ -179,7 +179,7 @@ function showAllCards() {
       back.style.transform = "rotateY(180deg)";
       back.style.borderRadius = "8px";
       back.style.overflow = "hidden";
-      back.innerHTML = `<img src="${card.image}" alt="${card.title}" style="width:100%;height:100%;object-fit:contain;">`;
+      back.innerHTML = `<img src="${card.image}" alt="${card.title}" style="width:100%;height:100%;object-fit:cover;">`;
 
       inner.appendChild(front);
       inner.appendChild(back);
