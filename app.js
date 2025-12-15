@@ -179,7 +179,7 @@ function showAllCards() {
       back.style.transform = "rotateY(180deg)";
       back.style.borderRadius = "8px";
       back.style.overflow = "hidden";
-      back.innerHTML = `<img src="${card.image}" alt="${card.title}" style="width:100%;height:100%;object-fit:cover;">`;
+      back.innerHTML = `<img src="${card.image}" alt="${card.title}" style="width:100%;height:100%;object-fit:contain;padding:5px">`;
 
       inner.appendChild(front);
       inner.appendChild(back);

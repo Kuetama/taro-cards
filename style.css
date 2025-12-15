@@ -278,6 +278,8 @@ button:hover {
   border-radius: 6px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   will-change: transform; /* оптимизация анимации */
+  background: rgba(55, 70, 73, 0.2);
+  padding: 5px;
 }
 
 .card img {
