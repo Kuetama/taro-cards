@@ -1,9 +1,9 @@
-const CACHE_NAME = 'taro-cards-v1';
+const CACHE_NAME = 'taro-cards-v2';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/style.css',
-  '/app.js',
+  '/main.css',
+  '/main.js',
   '/how-to.html',
   '/icon-192.png',
   '/icon-512.png'
